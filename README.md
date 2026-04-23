@@ -54,9 +54,9 @@
 ### ファイルとフォルダの説明
 
 - ここに置いてあるのは主に文書のPDFファイルとGAMSのプログラムです。
-- **全てファイルを一括でダウンロードしたいとき** は、
-  [`Release`](https://github.com/ShiroTakeda/CGE-intro-public/releases)のページ
-  からZIPファイルをダウンロードしてください。
+- **全てのファイルを一括でダウンロードしたいとき**
+  - [`Release`](https://github.com/ShiroTakeda/CGE-intro-public/releases)のペー
+    ジから Source code の zip ファイルをダウンロードしてください。
 
 <br>
 
@@ -92,8 +92,8 @@
 
 #### GAMSのプログラム
 
-- chap_1などのフォルダが各章で使われているGAMSのプログラム（やデータ）を含んだフォ
-  ルダになります。
+- `chap_1`、`chap_3`などのフォルダが各章で使われているGAMSのプログラム（やデータ）
+  を含んだフォルダになります。
 
 <br>
 
