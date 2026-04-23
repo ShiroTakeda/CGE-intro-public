@@ -5,7 +5,6 @@
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-- [『応用一般均衡分析入門』の練習問題](#応用一般均衡分析入門の練習問題)
   - [説明](#説明)
     - [注](#注)
 
@@ -24,7 +23,6 @@
 - 問題と解答も Google の NotebookLM を利用して作成したものです。
   - 『応用一般均衡分析』のファイル全部をソースとして読み込ませた上で、Gemini に作成させました。
   - 時間がないので、中身のチェックはほとんどしていません（間違っているかもしれません）。
-  
   
   
 
