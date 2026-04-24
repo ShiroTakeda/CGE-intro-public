@@ -52,7 +52,7 @@
 
 - ここに置いてあるのは主に文書のPDFファイルとGAMSのプログラムです。
 - **全てのファイルを一括でダウンロードしたいとき**
-  - [`Release`](https://github.com/ShiroTakeda/CGE-intro-public/releases)のペー
+  - [`Releases`](https://github.com/ShiroTakeda/CGE-intro-public/releases)のペー
     ジから Source code の zip ファイルをダウンロードしてください。
 
 <br>
